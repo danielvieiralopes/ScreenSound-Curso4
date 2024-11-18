@@ -1,0 +1,1 @@
+﻿public record AvaliacaoDoArtistaResponse(int ArtistaId, double Nota);
